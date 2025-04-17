@@ -1,9 +1,5 @@
 <!-- r3x-terminal README.md -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&vCenter=true&width=460&lines=Custom+Terminal+for+the+Elite...;Hack+in+Style+%F0%9F%92%BB;ASCII+Art+%2B+Stealth+Themes+%F0%9F%94%8A;Welcome+to+the+r3x-terminal+Ops" alt="typing header"/>
-</p>
-
 <pre align="center">
                                                                                                                  
            .--,-``-.                                                                                             
@@ -21,6 +17,10 @@
           \   \     .'   \   \  /          '---'      `---'  `--` `---'.|    ---`-'           |  ,   /  ---`-'   
            `--`-,,-'      `----'                                    `---`                      ---`-'            
 </pre>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&vCenter=true&width=460&lines=Custom+Terminal+for+the+Elite...;Hack+in+Style+%F0%9F%92%BB;ASCII+Art+%2B+Stealth+Themes+%F0%9F%94%8A;Welcome+to+the+r3x-terminal+Ops" alt="typing header"/>
+</p>
 
 ---
 
